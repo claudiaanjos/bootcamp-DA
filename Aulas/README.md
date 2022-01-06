@@ -19,3 +19,11 @@ Aulas disponibilizadas pela plataforma Alura.
 - Juntando tabelas e consultas
 - Funções do MySQL
 - Exemplos de relatórios
+
+#### Aula 03 - Python para Data Science: Introdução à linguagem e Numpy
+
+- Ambiente do cientista de dados
+- Características do Python
+- Trabalhando com listas
+- Condicionais e laços
+- Conhecendo o NumPy
