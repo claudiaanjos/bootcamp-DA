@@ -27,3 +27,12 @@ Aulas disponibilizadas pela plataforma Alura.
 - Trabalhando com listas
 - Condicionais e laços
 - Conhecendo o NumPy
+
+#### Aula 04 - Python para Data Science: Funções, Pacotes e Pandas básico
+
+- Apresentação do curso
+- Listas estáticas: Tuplas
+- Mapeando dados: Dicionários
+- Organização do código: Funções e pacotes
+- A biblioteca dos cientistas: Pandas
+
