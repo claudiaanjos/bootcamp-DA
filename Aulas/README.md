@@ -36,3 +36,15 @@ Aulas disponibilizadas pela plataforma Alura.
 - Organização do código: Funções e pacotes
 - A biblioteca dos cientistas: Pandas
 
+#### Aula 05 - Python Pandas: Tratando e analisando dados
+
+- Conhecendo Jupyter
+- Importando dados
+- Series e Index
+- Filtrando dados
+- Frequências de imóveis
+- Tratando de dados faltantes
+- Novas variáveis
+- Estatísticas descritivas
+- Removendo Outliers
+
