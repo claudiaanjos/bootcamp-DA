@@ -57,3 +57,12 @@ Aulas disponibilizadas pela plataforma Alura.
 - Medidas de dispersão
 - Projeto final
 
+#### Aula 07 - Estatística com Python parte 2: Probabilidade e Amostragem
+
+- Distribuição binomial
+- Distribuição de Poisson
+- Distribuição normal
+- Técnicas de amostragem
+- Nível e intervalo de confiança
+- Calculando o tamanho da amostra
+- Resumo e projeto final
