@@ -66,3 +66,13 @@ Aulas disponibilizadas pela plataforma Alura.
 - Nível e intervalo de confiança
 - Calculando o tamanho da amostra
 - Resumo e projeto final
+
+#### Aula 08 - Estatística com Python parte 3: Testes de hipóteses
+
+- Teste de normalidade e as etapas de um teste
+- Teste bicaudal e entendendo o p-valor
+- Distribuição t de Student e o teste unicaudal
+- Teste para duas amostras
+- Distribuição Qui-Quadrado
+- Teste de Wilcoxon e Mann-Whitney
+- Resumo e projeto final
