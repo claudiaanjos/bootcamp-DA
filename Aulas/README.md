@@ -76,3 +76,11 @@ Aulas disponibilizadas pela plataforma Alura.
 - Distribuição Qui-Quadrado
 - Teste de Wilcoxon e Mann-Whitney
 - Resumo e projeto final
+
+#### Aula 09 - Estatística com Python parte 4: Correlação e Regressão
+
+- A primeira regressão
+- Entendendo a covariância
+- Usando regressão linear
+- Testando os resultados
+- Projeto e resumo
