@@ -48,3 +48,12 @@ Aulas disponibilizadas pela plataforma Alura.
 - Estatísticas descritivas
 - Removendo Outliers
 
+#### Aula 06 - Estatística com Python parte 1: Frequências e Medidas
+
+- Qual o seu tipo de dado?
+- Distribuição de frequência
+- Medidas de tendência central
+- Medidas separatrizes
+- Medidas de dispersão
+- Projeto final
+
