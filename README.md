@@ -9,7 +9,7 @@ O Bootcamp Data Analytics foi criado para acelerar a empregabilidade de mulheres
 
 Os principais tópicos abordados foram sobre planejamento de carreira, soft skills, módulos técnicos sobre python, metodologias ágeis, banco de dados, business intelligence e computação em nuvem.
 
-### 🖥️  Aulas 
+### 🖥️  Conteúdo 
 
 - Fundamentos e Manifesto Ágil
 - Metodologia Scrum
